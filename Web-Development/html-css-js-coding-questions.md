@@ -289,6 +289,89 @@ Hello User
 
 ---
 
+
+### 21. Disable Submit Button After First Click
+
+**Requirements**
+
+* Write JavaScript code to disable the submit button immediately after it is clicked once
+* Prevent multiple form submissions
+
+**Skills Tested**
+
+* DOM manipulation
+* Event handling
+* Form control
+
+---
+
+### 22. Show Password Strength While Typing
+
+**Requirements**
+
+* Check password strength dynamically while user types
+* Display strength based on length:
+
+  * Weak → length < 6
+  * Medium → length between 6 and 9
+  * Strong → length ≥ 10
+
+**Skills Tested**
+
+* `keyup` / `input` events
+* Conditional logic
+* DOM updates
+
+---
+
+### 23. Display Character Count While Typing in Textarea
+
+**Requirements**
+
+* Display the number of characters typed in a textarea
+* Count should update dynamically as user types
+
+**Skills Tested**
+
+* Event listeners
+* Real-time DOM manipulation
+
+---
+
+### 24. Change Text Color Based on Dropdown Selection
+
+**Requirements**
+
+* Change paragraph text color based on dropdown value
+* Dropdown options:
+
+  * Red
+  * Green
+  * Blue
+
+**Skills Tested**
+
+* `select` element handling
+* Style manipulation using JavaScript
+
+---
+
+### 25. Validate Email Format Using JavaScript
+
+**Requirements**
+
+* Validate email entered by the user
+* If email format is invalid:
+
+  * Display error message
+  * Prevent form submission
+
+**Skills Tested**
+
+* Regular expressions
+* Form validation
+* Error 
+
 ## Notes
 
 - These questions are **practice-oriented**
